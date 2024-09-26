@@ -1,0 +1,1 @@
+export const server_url ='https://meda-server1.onrender.com'
